@@ -1,0 +1,9 @@
+.App{
+margin-top: 200px;
+}
+ul{
+  list-style: none;
+}
+ul li{
+  float: left;
+}

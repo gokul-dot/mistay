@@ -1,0 +1,16 @@
+ul{
+  font-size: 20px;
+  color:gray;
+  margin-top:10px;
+}
+li{
+  margin-right:30px;
+}
+input{
+ border:none;
+ font-size: 16px;
+ color:gray;
+}
+input:focus{
+  outline:none;
+}
